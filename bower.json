@@ -1,6 +1,6 @@
 {
-  "name": "jsoneditor",
-  "description": "A web-based tool to view, edit and format JSON",
+  "name": "qb-jsoneditor",
+  "description": "A web-based tool to view, edit and format JSON with custmized icons",
   "tags": [
     "json",
     "editor",
